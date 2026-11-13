@@ -78,7 +78,7 @@
             },
             {
               "brand": "AngryMiao",
-              "name": "Battleye R2 BE745",
+              "name": "BE745",
               "sub": "AM 自有磁轴 · 是 63 也是 75 · 可变配列",
               "price": "¥1,480",
               "priceSub": "官方商城价 · 常售罄",
@@ -589,5 +589,5 @@
       ]
     }
   ],
-  "updatedAt": 1794476781005
+  "updatedAt": 1794559982008
 }
