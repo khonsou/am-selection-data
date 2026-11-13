@@ -71,16 +71,6 @@
               "role": "AM 磁轴主力"
             },
             {
-              "brand": "",
-              "name": "",
-              "sub": "",
-              "price": "",
-              "margin": "—",
-              "moq": "—",
-              "role": "定位",
-              "priceSub": ""
-            },
-            {
               "brand": "SteelSeries",
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
@@ -584,5 +574,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560371765
+  "updatedAt": 1794560375629
 }
