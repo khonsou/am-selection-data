@@ -358,7 +358,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "Atelier Lin",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -557,5 +557,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564430789
+  "updatedAt": 1794564434754
 }
