@@ -31,15 +31,6 @@
               "role": "国产旗舰"
             },
             {
-              "brand": "万灵竞记",
-              "name": "影 75",
-              "sub": "Broky 赛用 · RT 0.001mm",
-              "price": "¥1,499–1,549",
-              "margin": "~25%",
-              "moq": "~10",
-              "role": "职业背书"
-            },
-            {
               "brand": "SteelSeries",
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
@@ -572,5 +563,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560061680
+  "updatedAt": 1794560064784
 }
