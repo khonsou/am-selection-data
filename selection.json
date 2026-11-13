@@ -306,7 +306,7 @@
               "brand": "WINS",
               "name": "hub",
               "price": "358",
-              "margin": "26.7%",
+              "margin": "27%",
               "moq": "200",
               "role": "200 条售罄",
               "sub": "",
@@ -623,5 +623,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564166154
+  "updatedAt": 1794564176016
 }
