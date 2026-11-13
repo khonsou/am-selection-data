@@ -435,7 +435,7 @@
               "name": "Winter Breath",
               "sub": "",
               "price": "¥255",
-              "margin": "—",
+              "margin": "2",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -569,5 +569,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564779491
+  "updatedAt": 1794564782053
 }
