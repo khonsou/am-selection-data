@@ -286,8 +286,8 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
-              "name": "新产品",
+              "brand": "HyperX 极度未知",
+              "name": "飓风 3s",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -643,5 +643,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561738483
+  "updatedAt": 1794561756547
 }
