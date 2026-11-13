@@ -371,10 +371,11 @@
               "brand": "AngryMiao",
               "name": "HotKeyProject个性键帽",
               "sub": "",
-              "price": "¥—",
+              "price": "¥290",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -567,5 +568,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564510163
+  "updatedAt": 1794564517470
 }
