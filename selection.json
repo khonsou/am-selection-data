@@ -558,7 +558,7 @@
           "rows": [
             {
               "brand": "LIVTAB",
-              "name": "新产品",
+              "name": "升降桌",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -600,5 +600,5 @@
       ]
     }
   ],
-  "updatedAt": 1794566689386
+  "updatedAt": 1794566719023
 }
