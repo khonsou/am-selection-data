@@ -40,15 +40,6 @@
               "role": "职业背书"
             },
             {
-              "brand": "万灵竞记",
-              "name": "幻 63",
-              "sub": "DRG 战队联名",
-              "price": "¥1,799",
-              "margin": "~25%",
-              "moq": "~10",
-              "role": "联名话题"
-            },
-            {
               "brand": "SteelSeries",
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
@@ -581,5 +572,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560046747
+  "updatedAt": 1794560061680
 }
