@@ -562,7 +562,8 @@
               "price": "¥2,400",
               "margin": "—",
               "moq": "实销 12",
-              "role": "AM 旗舰垫"
+              "role": "AM 旗舰垫",
+              "priceSub": ""
             },
             {
               "brand": "aboStudio",
@@ -609,5 +610,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565067060
+  "updatedAt": 1794565077042
 }
