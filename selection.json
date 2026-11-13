@@ -270,10 +270,11 @@
               "brand": "HyperX 极度未知",
               "name": "飓风 3s",
               "sub": "",
-              "price": "¥549–1,099",
+              "price": "¥947",
               "margin": "~20%",
               "moq": "~5",
-              "role": "性价比水桶"
+              "role": "性价比水桶",
+              "priceSub": ""
             },
             {
               "brand": "ROG",
@@ -643,5 +644,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561767112
+  "updatedAt": 1794561773894
 }
