@@ -34,10 +34,11 @@
               "brand": "SteelSeries",
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
-              "price": "~¥1,899",
+              "price": "~¥1619",
               "margin": "~15%",
               "moq": "~5",
-              "role": "大厂生态"
+              "role": "大厂生态",
+              "priceSub": ""
             },
             {
               "brand": "ROG",
@@ -563,5 +564,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560064784
+  "updatedAt": 1794560082004
 }
