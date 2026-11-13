@@ -252,10 +252,11 @@
               "brand": "Razer",
               "name": "旋风黑鲨 V3 Pro",
               "sub": "ANC · 透气织物耳垫",
-              "price": "¥1,799–1,899",
+              "price": "¥1600",
               "margin": "~15%",
               "moq": "~5",
-              "role": "降噪竞技"
+              "role": "降噪竞技",
+              "priceSub": ""
             },
             {
               "brand": "Logitech",
@@ -644,5 +645,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561773894
+  "updatedAt": 1794561794817
 }
