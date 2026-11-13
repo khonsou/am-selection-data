@@ -513,14 +513,6 @@
           "tag": "毛利率之王 60.9%",
           "rows": [
             {
-              "brand": "FUXK",
-              "name": "鼠标垫",
-              "price": "¥169",
-              "margin": "60.9%",
-              "moq": "50–169",
-              "role": "毛利率之王"
-            },
-            {
               "brand": "Deltahub × AM",
               "name": "Carpio G2.0 游戏腕托",
               "price": "¥252–280",
@@ -582,5 +574,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565325986
+  "updatedAt": 1794565327972
 }
