@@ -64,7 +64,8 @@
               "price": "~¥1,499",
               "margin": "~15%",
               "moq": "~5",
-              "role": "ROG 生态"
+              "role": "ROG 生态",
+              "priceSub": ""
             },
             {
               "brand": "IQUNIX",
@@ -589,5 +590,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560022898
+  "updatedAt": 1794560026340
 }
