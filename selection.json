@@ -31,16 +31,6 @@
               "role": "国产旗舰"
             },
             {
-              "brand": "MelGeek 蜜氪",
-              "name": "MADE68 PRO+",
-              "sub": "",
-              "price": "¥679",
-              "margin": "",
-              "moq": "",
-              "role": "",
-              "priceSub": ""
-            },
-            {
               "brand": "ROG",
               "name": "魔导士 Ace 75 HE",
               "sub": "",
@@ -611,5 +601,5 @@
       ]
     }
   ],
-  "updatedAt": 1794566800682
+  "updatedAt": 1794566837057
 }
