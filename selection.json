@@ -81,7 +81,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "SteelSeries",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560311403
+  "updatedAt": 1794560315562
 }
