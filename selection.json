@@ -111,7 +111,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "AngryMiao",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -623,5 +623,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561485700
+  "updatedAt": 1794561490147
 }
