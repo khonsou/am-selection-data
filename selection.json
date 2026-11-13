@@ -114,10 +114,11 @@
               "brand": "AngryMiao",
               "name": "CYBERBOARD R6",
               "sub": "",
-              "price": "¥—",
+              "price": "¥5880",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         }
@@ -623,5 +624,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561501582
+  "updatedAt": 1794561607840
 }
