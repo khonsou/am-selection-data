@@ -54,7 +54,7 @@
               "brand": "IQUNIX",
               "name": "EV63",
               "sub": "铝壳+锻碳前板 · 0.01mm RT · 8kHz · EDG/MIBR 战队合作 · 3 年质保",
-              "price": "¥1,399",
+              "price": "¥934",
               "priceSub": "补贴到手约 ¥934–1,189",
               "margin": "",
               "moq": "~10",
@@ -564,5 +564,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560143411
+  "updatedAt": 1794560157090
 }
