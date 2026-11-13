@@ -95,7 +95,7 @@
               "name": "夜魔 75",
               "sub": "",
               "price": "¥1619",
-              "margin": "—",
+              "margin": "~15%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -105,7 +105,7 @@
               "name": "夜魔 75 Extreme",
               "sub": "",
               "price": "¥3167",
-              "margin": "—",
+              "margin": "~15%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -614,5 +614,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561374647
+  "updatedAt": 1794561379416
 }
