@@ -34,7 +34,7 @@
               "brand": "MelGeek 蜜氪",
               "name": "MADE68 PRO+",
               "sub": "",
-              "price": "",
+              "price": "¥679",
               "margin": "",
               "moq": "",
               "role": "",
@@ -74,7 +74,7 @@
               "brand": "",
               "name": "",
               "sub": "",
-              "price": "¥679",
+              "price": "",
               "margin": "—",
               "moq": "—",
               "role": "定位",
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560364830
+  "updatedAt": 1794560368288
 }
