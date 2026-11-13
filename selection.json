@@ -44,7 +44,7 @@
               "brand": "ROG",
               "name": "魔导士 Ace 75 HE",
               "sub": "",
-              "price": "~¥1499",
+              "price": "~¥1100",
               "margin": "~15%",
               "moq": "~5",
               "role": "ROG 生态",
@@ -564,5 +564,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560117486
+  "updatedAt": 1794560138742
 }
