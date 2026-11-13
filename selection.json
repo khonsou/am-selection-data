@@ -81,7 +81,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "AngryMiao",
               "name": "Retro 63 RT",
               "sub": "",
               "price": "¥—",
@@ -593,5 +593,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560884710
+  "updatedAt": 1794560887836
 }
