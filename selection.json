@@ -339,22 +339,6 @@
           "tag": "拉新引擎 · 毛利 12–43%",
           "rows": [
             {
-              "brand": "ELLIPSIS",
-              "name": "个性键帽（亮面/哑光 · 黑/青）",
-              "price": "¥299",
-              "margin": "25.1%",
-              "moq": "70/色",
-              "role": "拉新纪录 +238"
-            },
-            {
-              "brand": "ELLIPSIS",
-              "name": "4 色套组",
-              "price": "¥999",
-              "margin": "21.9%",
-              "moq": "40",
-              "role": "套组提客单"
-            },
-            {
               "brand": "Clackeys",
               "name": "PUB KEY R2 手工个性键帽",
               "price": "¥380–420",
@@ -585,5 +569,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564299175
+  "updatedAt": 1794564302723
 }
