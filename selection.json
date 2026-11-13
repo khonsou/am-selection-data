@@ -82,7 +82,7 @@
             },
             {
               "brand": "品牌",
-              "name": "新产品",
+              "name": "Retro 63 RT",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -593,5 +593,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560875772
+  "updatedAt": 1794560881113
 }
