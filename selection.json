@@ -460,7 +460,7 @@
             },
             {
               "brand": "KCH",
-              "name": "新产品",
+              "name": "Hipparcos Base 测天",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -596,5 +596,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564904578
+  "updatedAt": 1794564909224
 }
