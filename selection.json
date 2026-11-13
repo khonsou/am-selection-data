@@ -85,7 +85,7 @@
               "name": "Retro 63 RT",
               "sub": "",
               "price": "¥—",
-              "margin": "—",
+              "margin": "自有渠道",
               "moq": "—",
               "role": "定位"
             }
@@ -593,5 +593,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560887836
+  "updatedAt": 1794560891655
 }
