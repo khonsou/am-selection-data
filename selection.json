@@ -170,10 +170,11 @@
               "brand": "AngryMiao",
               "name": "Infinity Mouse.100  R2",
               "sub": "",
-              "price": "¥—",
+              "price": "¥1280",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         }
@@ -583,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560729189
+  "updatedAt": 1794560735097
 }
