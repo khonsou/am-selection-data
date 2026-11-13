@@ -522,12 +522,13 @@
             },
             {
               "brand": "AngryMiao",
-              "name": "Cybermat R2",
+              "name": "玻璃鼠标垫 超薄款",
               "price": "¥2,400",
               "margin": "—",
               "moq": "实销 12",
               "role": "AM 旗舰垫",
-              "priceSub": ""
+              "priceSub": "",
+              "sub": ""
             },
             {
               "brand": "aboStudio",
@@ -574,5 +575,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565327972
+  "updatedAt": 1794565415489
 }
