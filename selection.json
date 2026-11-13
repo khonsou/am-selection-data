@@ -560,10 +560,11 @@
               "brand": "LIVTAB",
               "name": "升降桌",
               "sub": "",
-              "price": "¥—",
+              "price": "¥6388",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -600,5 +601,5 @@
       ]
     }
   ],
-  "updatedAt": 1794566719023
+  "updatedAt": 1794566725068
 }
