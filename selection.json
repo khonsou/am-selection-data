@@ -455,7 +455,7 @@
               "name": "KKB IBM",
               "sub": "",
               "price": "¥629",
-              "margin": "—",
+              "margin": "20%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -465,7 +465,7 @@
               "name": "Hipparcos Base 测天",
               "sub": "",
               "price": "¥469",
-              "margin": "—",
+              "margin": "25%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -599,5 +599,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564965455
+  "updatedAt": 1794564970830
 }
