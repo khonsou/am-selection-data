@@ -361,10 +361,11 @@
               "brand": "Atelier Lin",
               "name": "旋转第二季（烤漆/阳极）",
               "sub": "",
-              "price": "¥—",
+              "price": "¥156",
               "margin": "22.0%",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -557,5 +558,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564470392
+  "updatedAt": 1794564480138
 }
