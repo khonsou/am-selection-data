@@ -287,15 +287,6 @@
               "moq": "—",
               "role": "定位",
               "priceSub": ""
-            },
-            {
-              "brand": "HyperX 极度未知",
-              "name": "飓风 3s",
-              "sub": "",
-              "price": "¥—",
-              "margin": "—",
-              "moq": "—",
-              "role": "定位"
             }
           ]
         }
@@ -646,5 +637,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561827968
+  "updatedAt": 1794561835835
 }
