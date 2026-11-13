@@ -421,15 +421,6 @@
               "sub": ""
             },
             {
-              "brand": "Retro GB",
-              "name": "主题键帽",
-              "price": "¥328",
-              "margin": "45.1%",
-              "moq": "300",
-              "role": "高毛利",
-              "sub": ""
-            },
-            {
               "brand": "Bad Rabbit",
               "name": "巴斯奎特涂鸦主题键帽",
               "price": "¥219",
@@ -574,5 +565,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564678302
+  "updatedAt": 1794564681885
 }
