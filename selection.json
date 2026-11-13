@@ -565,7 +565,7 @@
               "role": "AM 旗舰垫"
             },
             {
-              "brand": "品牌",
+              "brand": "aboStudio",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -608,5 +608,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564986610
+  "updatedAt": 1794564994933
 }
