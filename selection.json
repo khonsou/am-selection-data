@@ -401,11 +401,12 @@
             },
             {
               "brand": "HAOWORKS",
-              "name": "调酒 base / Casino 卡西欧",
+              "name": "调酒 base",
               "price": "¥309–349",
               "margin": "47.0%",
               "moq": "~30",
-              "role": "高毛利"
+              "role": "高毛利",
+              "sub": ""
             },
             {
               "brand": "米可维",
@@ -568,5 +569,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564525070
+  "updatedAt": 1794564603218
 }
