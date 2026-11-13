@@ -570,10 +570,11 @@
               "brand": "清闲",
               "name": "清闲 OC1 PRO",
               "sub": "",
-              "price": "¥—",
+              "price": "¥3661",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -610,5 +611,5 @@
       ]
     }
   ],
-  "updatedAt": 1794566792392
+  "updatedAt": 1794566800682
 }
