@@ -36,7 +36,7 @@
               "sub": "",
               "price": "",
               "margin": "",
-              "moq": "~5",
+              "moq": "",
               "role": "大厂生态",
               "priceSub": ""
             },
@@ -85,7 +85,7 @@
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
               "price": "~¥1619",
-              "margin": "—",
+              "margin": "~15%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560330645
+  "updatedAt": 1794560336002
 }
