@@ -304,7 +304,7 @@
           "rows": [
             {
               "brand": "WINS",
-              "name": "hub",
+              "name": "Hub 航插线",
               "price": "¥358",
               "margin": "27%",
               "moq": "100",
@@ -321,14 +321,6 @@
               "role": "主力款",
               "sub": "",
               "priceSub": ""
-            },
-            {
-              "brand": "WINS",
-              "name": "HUB 航插线",
-              "price": "¥338",
-              "margin": "31.3%",
-              "moq": "150",
-              "role": "新款"
             },
             {
               "brand": "AngryMiao",
@@ -608,5 +600,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564207985
+  "updatedAt": 1794564224912
 }
