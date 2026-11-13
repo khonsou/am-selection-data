@@ -100,13 +100,14 @@
               "role": "定位"
             },
             {
-              "brand": "品牌",
+              "brand": "ROG",
               "name": "夜魔 75 Extreme",
               "sub": "",
               "price": "¥—",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         }
@@ -612,5 +613,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561335221
+  "updatedAt": 1794561340988
 }
