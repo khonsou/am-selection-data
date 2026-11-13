@@ -71,7 +71,7 @@
               "role": "AM 磁轴主力"
             },
             {
-              "brand": "MelGeek 蜜氪",
+              "brand": "",
               "name": "MADE68 PRO+",
               "sub": "",
               "price": "¥679",
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560352832
+  "updatedAt": 1794560358105
 }
