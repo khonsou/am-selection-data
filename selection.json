@@ -234,10 +234,11 @@
               "brand": "SteelSeries",
               "name": "Arctis Nova Pro Wireless",
               "sub": "ANC · 热插拔电池",
-              "price": "¥2,199",
+              "price": "¥1999",
               "margin": "~18%",
               "moq": "~5",
-              "role": "综合最强"
+              "role": "综合最强",
+              "priceSub": ""
             },
             {
               "brand": "Audeze",
@@ -645,5 +646,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561798324
+  "updatedAt": 1794561827968
 }
