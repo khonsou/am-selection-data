@@ -112,7 +112,7 @@
             },
             {
               "brand": "AngryMiao",
-              "name": "新产品",
+              "name": "CYBERBOARD",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -623,5 +623,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561490147
+  "updatedAt": 1794561496522
 }
