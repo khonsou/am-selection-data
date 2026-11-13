@@ -339,14 +339,6 @@
           "tag": "拉新引擎 · 毛利 12–43%",
           "rows": [
             {
-              "brand": "Atelier Lin",
-              "name": "Twister 旋转键帽（烤漆/阳极）",
-              "price": "¥156",
-              "margin": "~25.5%",
-              "moq": "不限",
-              "role": "返场 7 次"
-            },
-            {
               "brand": "Dispace",
               "name": "Touch 个性键帽套装（四枚装）",
               "price": "¥350",
@@ -553,5 +545,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564305575
+  "updatedAt": 1794564307116
 }
