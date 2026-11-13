@@ -324,14 +324,6 @@
             },
             {
               "brand": "WINS",
-              "name": "一拖二双 8K 电竞线（AT 定制配色）",
-              "price": "¥318",
-              "margin": "30.1%",
-              "moq": "300",
-              "role": "补货验证"
-            },
-            {
-              "brand": "WINS",
               "name": "一拖四数据线（Battleye 定制）",
               "price": "¥328",
               "margin": "32.3%",
@@ -624,5 +616,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564201847
+  "updatedAt": 1794564205545
 }
