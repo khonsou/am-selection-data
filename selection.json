@@ -339,22 +339,6 @@
           "tag": "拉新引擎 · 毛利 12–43%",
           "rows": [
             {
-              "brand": "Clackeys",
-              "name": "PUB KEY R2 手工个性键帽",
-              "price": "¥380–420",
-              "margin": "~25%",
-              "moq": "~20",
-              "role": "返场 3 次"
-            },
-            {
-              "brand": "Jellykey",
-              "name": "Retro TV 手工个性键帽",
-              "price": "¥350",
-              "margin": "12.0%",
-              "moq": "29",
-              "role": "陈列款"
-            },
-            {
               "brand": "Atelier Lin",
               "name": "Twister 旋转键帽（烤漆/阳极）",
               "price": "¥156",
@@ -569,5 +553,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564302723
+  "updatedAt": 1794564305575
 }
