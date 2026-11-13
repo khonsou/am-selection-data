@@ -351,10 +351,11 @@
               "brand": "THOK",
               "name": "Thok 黄铜个性键帽",
               "sub": "",
-              "price": "¥—",
+              "price": "¥298",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -547,5 +548,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564394287
+  "updatedAt": 1794564400020
 }
