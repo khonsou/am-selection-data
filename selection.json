@@ -394,11 +394,12 @@
             {
               "brand": "键设局",
               "name": "Rainbow G3 R2 旧日海滨主题键帽",
-              "price": "¥99–499",
+              "price": "¥249",
               "margin": "32–55%",
               "moq": "30",
               "role": "利润主力",
-              "sub": ""
+              "sub": "",
+              "priceSub": ""
             },
             {
               "brand": "HAOWORKS",
@@ -571,5 +572,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564633494
+  "updatedAt": 1794564642815
 }
