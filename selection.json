@@ -115,7 +115,7 @@
               "name": "CYBERBOARD R6",
               "sub": "",
               "price": "¥5880",
-              "margin": "—",
+              "margin": "自有渠道",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -624,5 +624,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561607840
+  "updatedAt": 1794561612156
 }
