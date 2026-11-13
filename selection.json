@@ -521,22 +521,6 @@
               "role": "毛利率之王"
             },
             {
-              "brand": "TACWORK",
-              "name": "PAD（新配色）",
-              "price": "¥699",
-              "margin": "25.0%",
-              "moq": "100",
-              "role": "高端垫"
-            },
-            {
-              "brand": "键设局",
-              "name": "deskmat（寰宇全图配套）",
-              "price": "¥99",
-              "margin": "26.3%",
-              "moq": "30",
-              "role": "低客单连带"
-            },
-            {
               "brand": "Deltahub × AM",
               "name": "Carpio G2.0 游戏腕托",
               "price": "¥252–280",
@@ -598,5 +582,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565296335
+  "updatedAt": 1794565325986
 }
