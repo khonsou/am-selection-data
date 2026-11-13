@@ -324,14 +324,6 @@
             },
             {
               "brand": "WINS",
-              "name": "一拖四数据线（Battleye 定制）",
-              "price": "¥328",
-              "margin": "32.3%",
-              "moq": "600",
-              "role": "走量款"
-            },
-            {
-              "brand": "WINS",
               "name": "HUB 航插线",
               "price": "¥338",
               "margin": "31.3%",
@@ -616,5 +608,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564205545
+  "updatedAt": 1794564207985
 }
