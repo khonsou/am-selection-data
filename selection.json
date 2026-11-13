@@ -171,7 +171,7 @@
               "name": "Infinity Mouse.100  R2",
               "sub": "",
               "price": "¥1280",
-              "margin": "—",
+              "margin": "自有渠道",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560753943
+  "updatedAt": 1794560760762
 }
