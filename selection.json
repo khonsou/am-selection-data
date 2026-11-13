@@ -451,7 +451,7 @@
             },
             {
               "brand": "KKB",
-              "name": "新产品",
+              "name": "KKB IBM",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -597,5 +597,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564915959
+  "updatedAt": 1794564925278
 }
