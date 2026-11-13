@@ -86,15 +86,6 @@
               "margin": "自有渠道",
               "moq": "—",
               "role": "AM 磁轴主力"
-            },
-            {
-              "brand": "AngryMiao",
-              "name": "CYBERBOARD R6",
-              "sub": "品牌流量引擎 · 最新一代",
-              "price": "以发售为准",
-              "margin": "—",
-              "moq": "—",
-              "role": "AM 对照"
             }
           ]
         }
@@ -590,5 +581,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560041659
+  "updatedAt": 1794560046747
 }
