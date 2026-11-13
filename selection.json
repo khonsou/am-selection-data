@@ -86,7 +86,7 @@
               "sub": "OmniPoint 3.0",
               "price": "~¥1619",
               "margin": "~15%",
-              "moq": "—",
+              "moq": "~5",
               "role": "定位",
               "priceSub": ""
             }
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560336002
+  "updatedAt": 1794560338107
 }
