@@ -91,7 +91,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "ROG",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -603,5 +603,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561288728
+  "updatedAt": 1794561290556
 }
