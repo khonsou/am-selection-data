@@ -462,10 +462,11 @@
               "brand": "KCH",
               "name": "Hipparcos Base 测天",
               "sub": "",
-              "price": "¥—",
+              "price": "¥469",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -596,5 +597,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564909224
+  "updatedAt": 1794564915959
 }
