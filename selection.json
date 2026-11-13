@@ -339,14 +339,6 @@
           "tag": "拉新引擎 · 毛利 12–43%",
           "rows": [
             {
-              "brand": "Dispace",
-              "name": "Touch 个性键帽套装（四枚装）",
-              "price": "¥350",
-              "margin": "36.5%",
-              "moq": "20",
-              "role": "套装件"
-            },
-            {
               "brand": "AngryMiao",
               "name": "泰坦天尊 ESC / 一回",
               "price": "¥398 / 648",
@@ -545,5 +537,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564307116
+  "updatedAt": 1794564309217
 }
