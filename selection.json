@@ -372,7 +372,7 @@
               "name": "HotKeyProject个性键帽",
               "sub": "",
               "price": "¥290",
-              "margin": "—",
+              "margin": "",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -568,5 +568,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564517470
+  "updatedAt": 1794564522750
 }
