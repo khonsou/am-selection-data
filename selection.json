@@ -326,10 +326,11 @@
               "brand": "AngryMiao",
               "name": "怒喵歪歪线 1.6m",
               "sub": "首创歪头 · 磁吸收纳",
-              "price": "¥79",
+              "price": "¥89",
               "margin": "自有渠道",
               "moq": "—",
-              "role": "AM 零售"
+              "role": "AM 零售",
+              "priceSub": ""
             }
           ]
         },
@@ -600,5 +601,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564255797
+  "updatedAt": 1794564259221
 }
