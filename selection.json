@@ -431,7 +431,7 @@
               "priceSub": ""
             },
             {
-              "brand": "品牌",
+              "brand": "GoMaster",
               "name": "新产品",
               "sub": "",
               "price": "¥—",
@@ -568,5 +568,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564758354
+  "updatedAt": 1794564761079
 }
