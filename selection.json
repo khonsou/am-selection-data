@@ -544,10 +544,11 @@
               "brand": "DRY STUDIO",
               "name": "鼠标垫/布垫 FIELD 001",
               "sub": "",
-              "price": "¥—",
+              "price": "¥198",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -584,5 +585,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565669171
+  "updatedAt": 1794565674927
 }
