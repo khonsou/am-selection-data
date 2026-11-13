@@ -434,10 +434,11 @@
               "brand": "GoMaster",
               "name": "Winter Breath",
               "sub": "",
-              "price": "¥—",
+              "price": "¥255",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -568,5 +569,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564773639
+  "updatedAt": 1794564779491
 }
