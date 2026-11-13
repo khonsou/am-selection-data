@@ -524,8 +524,8 @@
               "brand": "AngryMiao",
               "name": "玻璃鼠标垫 超薄款",
               "price": "¥590",
-              "margin": "—",
-              "moq": "实销 12",
+              "margin": "",
+              "moq": "",
               "role": "AM 旗舰垫",
               "priceSub": "",
               "sub": ""
@@ -575,5 +575,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565422235
+  "updatedAt": 1794565436125
 }
