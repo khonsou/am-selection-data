@@ -455,7 +455,7 @@
               "name": "KKB IBM",
               "sub": "",
               "price": "¥629",
-              "margin": "20%",
+              "margin": "25%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -599,5 +599,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564970830
+  "updatedAt": 1794564973772
 }
