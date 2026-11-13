@@ -454,10 +454,11 @@
               "brand": "KKB",
               "name": "KKB IBM",
               "sub": "",
-              "price": "¥—",
+              "price": "¥629",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             },
             {
               "brand": "KCH",
@@ -598,5 +599,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564952268
+  "updatedAt": 1794564957364
 }
