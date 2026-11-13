@@ -42,8 +42,8 @@
             },
             {
               "brand": "ROG",
-              "name": "Falchion Ace HFX",
-              "sub": "65% · 8000Hz",
+              "name": "",
+              "sub": "",
               "price": "~¥1499",
               "margin": "~15%",
               "moq": "~5",
@@ -564,5 +564,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560088625
+  "updatedAt": 1794560110352
 }
