@@ -31,7 +31,7 @@
               "role": "国产旗舰"
             },
             {
-              "brand": "",
+              "brand": "MelGeek 蜜氪",
               "name": "",
               "sub": "",
               "price": "",
@@ -584,5 +584,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560358105
+  "updatedAt": 1794560360257
 }
