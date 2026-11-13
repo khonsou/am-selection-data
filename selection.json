@@ -279,10 +279,11 @@
               "brand": "ROG",
               "name": "棱镜 2",
               "sub": "",
-              "price": "¥—",
+              "price": "¥1299",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         }
@@ -633,5 +634,5 @@
       ]
     }
   ],
-  "updatedAt": 1794561708934
+  "updatedAt": 1794561717221
 }
