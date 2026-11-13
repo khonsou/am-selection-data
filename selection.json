@@ -568,10 +568,11 @@
               "brand": "aboStudio",
               "name": "金属置物托盘",
               "sub": "",
-              "price": "¥—",
+              "price": "¥598",
               "margin": "—",
               "moq": "—",
-              "role": "定位"
+              "role": "定位",
+              "priceSub": ""
             }
           ]
         },
@@ -608,5 +609,5 @@
       ]
     }
   ],
-  "updatedAt": 1794565007631
+  "updatedAt": 1794565052256
 }
