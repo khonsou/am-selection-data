@@ -566,7 +566,7 @@
             },
             {
               "brand": "aboStudio",
-              "name": "新产品",
+              "name": "金属置物托盘",
               "sub": "",
               "price": "¥—",
               "margin": "—",
@@ -608,5 +608,5 @@
       ]
     }
   ],
-  "updatedAt": 1794564994933
+  "updatedAt": 1794565007631
 }
