@@ -84,7 +84,7 @@
               "brand": "AngryMiao",
               "name": "Retro 63 RT",
               "sub": "",
-              "price": "¥1,480~¥1,480",
+              "price": "¥3160~¥1,480",
               "margin": "自有渠道",
               "moq": "—",
               "role": "定位",
@@ -594,5 +594,5 @@
       ]
     }
   ],
-  "updatedAt": 1794560904490
+  "updatedAt": 1794560912632
 }
