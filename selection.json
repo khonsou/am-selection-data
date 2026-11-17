@@ -293,7 +293,7 @@
               "name": "S21 USB版糖果粉",
               "sub": "",
               "price": "259",
-              "margin": "—",
+              "margin": "15%",
               "moq": "—",
               "role": "定位",
               "priceSub": ""
@@ -631,5 +631,5 @@
       ]
     }
   ],
-  "updatedAt": 1794885622048
+  "updatedAt": 1794885626952
 }
