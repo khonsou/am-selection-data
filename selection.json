@@ -14,7 +14,7 @@
           "rows": [
             {
               "brand": "Wooting",
-              "name": "导入测试X",
+              "name": "60HE v2",
               "sub": "60% 紧凑配列 · True 8kHz",
               "price": "~¥1,599",
               "margin": "~15%",
@@ -631,5 +631,5 @@
       ]
     }
   ],
-  "updatedAt": 1795064640257
+  "updatedAt": 1795064675753
 }
