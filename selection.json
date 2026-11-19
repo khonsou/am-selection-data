@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-19",
   "sections": [
     {
       "id": "step1",
@@ -16,99 +16,121 @@
               "brand": "Wooting",
               "name": "60HE v2",
               "sub": "60% 紧凑配列 · True 8kHz",
-              "price": "~¥1,599",
-              "margin": "~15%",
-              "moq": "~10",
-              "role": "竞技标杆"
+              "color": "",
+              "price": "¥1,599",
+              "margin": "15%",
+              "moq": 10,
+              "role": "竞技标杆",
+              "note": "",
+              "stock_cost": 13591.5
             },
             {
               "brand": "MelGeek 蜜氪",
               "name": "MADE68 V2",
               "sub": "灯箱 DIY · 0.01mm RT",
-              "price": "~¥1,599",
-              "margin": "~25%",
-              "moq": "~10",
-              "role": "国产旗舰"
-            },
-            {
-              "brand": "ROG",
-              "name": "魔导士 Ace 75 HE",
-              "sub": "",
-              "price": "~¥1100",
-              "margin": "~15%",
-              "moq": "~5",
-              "role": "ROG 生态",
-              "priceSub": ""
+              "color": "",
+              "price": "¥1,599",
+              "margin": "25%",
+              "moq": 10,
+              "role": "国产旗舰",
+              "note": "",
+              "stock_cost": 11992.5
             },
             {
               "brand": "IQUNIX",
               "name": "EV63",
               "sub": "铝壳+锻碳前板 · 0.01mm RT · 8kHz · EDG/MIBR 战队合作 · 3 年质保",
+              "color": "",
               "price": "¥934",
-              "priceSub": "补贴到手约 ¥934–1,189",
-              "margin": "",
-              "moq": "~10",
-              "role": "紧凑竞技 · 战队联名"
-            },
-            {
-              "brand": "AngryMiao",
-              "name": "BE745 屏幕版/铭牌版",
-              "sub": "AM 自有磁轴 · 是 63 也是 75 · 可变配列",
-              "price": "¥1,480~¥1,480",
-              "priceSub": "官方商城价 · 常售罄",
-              "margin": "自有渠道",
-              "moq": "5",
-              "role": "AM 磁轴主力"
+              "margin": "15%",
+              "moq": 10,
+              "role": "紧凑竞技 · 战队联名",
+              "note": "",
+              "stock_cost": 7939
             },
             {
               "brand": "SteelSeries",
               "name": "Apex Pro TKL Gen 3",
               "sub": "OmniPoint 3.0",
-              "price": "~¥1619",
-              "margin": "~15%",
-              "moq": "~5",
+              "color": "",
+              "price": "¥1,619",
+              "margin": "15%",
+              "moq": 10,
               "role": "大厂生态",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 13761.5
             },
             {
-              "brand": "AngryMiao",
-              "name": "Retro 63 RT",
+              "brand": "ROG",
+              "name": "魔导士 Ace 75 HE",
               "sub": "",
-              "price": "¥3160~¥3660",
-              "margin": "自有渠道",
-              "moq": "5",
-              "role": "定位",
-              "priceSub": ""
+              "color": "",
+              "price": "¥1,100",
+              "margin": "15%",
+              "moq": 10,
+              "role": "ROG 生态",
+              "note": "",
+              "stock_cost": 9350
             },
             {
               "brand": "ROG",
               "name": "夜魔 75",
               "sub": "",
-              "price": "¥1619",
-              "margin": "~15%",
-              "moq": "5",
+              "color": "",
+              "price": "¥1,619",
+              "margin": "15%",
+              "moq": 10,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 13761.5
             },
             {
               "brand": "ROG",
               "name": "夜魔 75 Extreme",
               "sub": "",
-              "price": "¥3167",
-              "margin": "~15%",
-              "moq": "5",
+              "color": "",
+              "price": "¥3,167",
+              "margin": "15%",
+              "moq": 10,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 26919.5
+            },
+            {
+              "brand": "AngryMiao",
+              "name": "BE745 屏幕版/铭牌版",
+              "sub": "AM 自有磁轴 · 是 63 也是 75 · 可变配列",
+              "color": "",
+              "price": "¥1,480",
+              "margin": "25%",
+              "moq": 10,
+              "role": "AM 磁轴主力",
+              "note": "自有渠道",
+              "stock_cost": 11100
+            },
+            {
+              "brand": "AngryMiao",
+              "name": "Retro 63 RT",
+              "sub": "",
+              "color": "",
+              "price": "¥3,660",
+              "margin": "25%",
+              "moq": 10,
+              "role": "定位",
+              "note": "自有渠道",
+              "stock_cost": 27450
             },
             {
               "brand": "AngryMiao",
               "name": "CYBERBOARD R6",
               "sub": "",
-              "price": "¥5880",
-              "margin": "自有渠道",
-              "moq": "5",
+              "color": "",
+              "price": "¥5,880",
+              "margin": "25%",
+              "moq": 10,
               "role": "客制化经典",
-              "priceSub": ""
+              "note": "自有渠道",
+              "stock_cost": 44100
             }
           ]
         }
@@ -128,83 +150,121 @@
               "brand": "Razer",
               "name": "Viper V4 Pro",
               "sub": "49g · Focus Pro 50K · 真 8kHz · Faker 联合打造",
+              "color": "",
               "price": "¥1,299",
-              "margin": "~15%",
-              "moq": "~10",
-              "role": "职业第一"
+              "margin": "15%",
+              "moq": 5,
+              "role": "职业第一",
+              "note": "",
+              "stock_cost": 5520.75
+            },
+            {
+              "brand": "雷蛇 Razer",
+              "name": "炼狱蝰蛇 V3 Pro",
+              "sub": "54g · Focus Pro 35K · 趴握人体工学",
+              "color": "",
+              "price": "¥1,099",
+              "margin": "15%",
+              "moq": 5,
+              "role": "趴握经典",
+              "note": "",
+              "stock_cost": 4670.75
             },
             {
               "brand": "Logitech",
               "name": "G PRO X2 SUPERSTRIKE（GPW5）",
               "sub": "63g · 万金油模具",
-              "price": "¥1,299–1,999",
-              "margin": "~15%",
-              "moq": "~10",
-              "role": "经典旗舰"
+              "color": "",
+              "price": "¥1,299",
+              "margin": "15%",
+              "moq": 5,
+              "role": "经典旗舰",
+              "note": "",
+              "stock_cost": 5520.75
             },
             {
               "brand": "万灵竞记",
               "name": "花·兽 标准版 / Max / Mini",
               "sub": "镁合金 31–46g · 四尺寸",
-              "price": "~¥899–1,299",
-              "margin": "~25%",
-              "moq": "~20",
-              "role": "全手型覆盖"
+              "color": "",
+              "price": "¥1,299",
+              "margin": "25%",
+              "moq": 5,
+              "role": "全手型覆盖",
+              "note": "",
+              "stock_cost": 4871.25
             },
             {
               "brand": "Lamzu",
               "name": "Maya X",
               "sub": "轻量无线 · 职业约 3%",
-              "price": "~¥899",
-              "margin": "~20%",
-              "moq": "~10",
-              "role": "发烧小众"
+              "color": "",
+              "price": "¥899",
+              "margin": "20%",
+              "moq": 5,
+              "role": "发烧小众",
+              "note": "",
+              "stock_cost": 3596
             },
             {
               "brand": "Finalmouse",
               "name": "Ultralight X",
               "sub": "极轻量 · 限量发售",
-              "price": "~¥1,500",
-              "margin": "~20%",
-              "moq": "~5",
-              "role": "稀缺话题"
+              "color": "",
+              "price": "¥1,500",
+              "margin": "20%",
+              "moq": 5,
+              "role": "稀缺话题",
+              "note": "",
+              "stock_cost": 6000
             },
             {
               "brand": "Zowie",
               "name": "EC2-CW",
               "sub": "有线硬核 · 无驱动",
+              "color": "",
               "price": "¥1,099",
-              "margin": "~15%",
-              "moq": "~5",
-              "role": "怀旧硬核位"
+              "margin": "15%",
+              "moq": 5,
+              "role": "怀旧硬核位",
+              "note": "",
+              "stock_cost": 4670.75
             },
             {
               "brand": "AngryMiao",
               "name": "AM Infinity .97",
               "sub": "亚洲手型特化模具 · 1.2s 换电无限续航",
+              "color": "",
               "price": "¥1,370",
-              "margin": "自有渠道",
-              "moq": "5",
-              "role": "AM 自有"
+              "margin": "25%",
+              "moq": 5,
+              "role": "AM 自有",
+              "note": "自有渠道",
+              "stock_cost": 5137.5
             },
             {
               "brand": "AngryMiao",
               "name": "AM Infinity .100",
               "sub": "双 8K · 超轻全金属 · 1.2s 换电（云白/玄武/赤橙）",
-              "price": "¥890–1,120",
-              "margin": "自有渠道",
-              "moq": "5",
-              "role": "AM 自有"
+              "color": "",
+              "price": "¥890",
+              "margin": "25%",
+              "moq": 5,
+              "role": "AM 自有",
+              "note": "自有渠道",
+              "stock_cost": 3337.5
             },
             {
               "brand": "AngryMiao",
-              "name": "Infinity Mouse.100  R2",
+              "name": "Infinity Mouse.100 R2",
               "sub": "",
-              "price": "¥1280",
-              "margin": "自有渠道",
-              "moq": "5",
+              "color": "",
+              "price": "¥1,280",
+              "margin": "25%",
+              "moq": 5,
               "role": "AM 自有",
-              "priceSub": ""
+              "note": "自有渠道",
+              "stock_cost": 4800
             }
           ]
         }
@@ -224,79 +284,169 @@
               "brand": "SteelSeries",
               "name": "Arctis Nova Pro Wireless",
               "sub": "ANC · 热插拔电池",
-              "price": "¥1999",
-              "margin": "~18%",
-              "moq": "~5",
+              "color": "",
+              "price": "¥1,999",
+              "margin": "18%",
+              "moq": 5,
               "role": "综合最强",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 8195.9
+            },
+            {
+              "brand": "赛睿 SteelSeries",
+              "name": "Arctis Nova Elite",
+              "sub": "耳罩内热插拔电池 · Hi-Res 认证",
+              "color": "",
+              "price": "¥2,899",
+              "margin": "18%",
+              "moq": 5,
+              "role": "新旗舰",
+              "note": "",
+              "stock_cost": 11885.9
             },
             {
               "brand": "Audeze",
               "name": "Maxwell 2",
               "sub": "90mm 平板振膜",
-              "price": "~¥2,599",
-              "margin": "~20%",
-              "moq": "~5",
-              "role": "音质天花板"
+              "color": "",
+              "price": "¥2,599",
+              "margin": "20%",
+              "moq": 5,
+              "role": "音质天花板",
+              "note": "",
+              "stock_cost": 10396
             },
             {
               "brand": "Razer",
               "name": "旋风黑鲨 V3 Pro",
               "sub": "ANC · 透气织物耳垫",
-              "price": "¥1600",
-              "margin": "~15%",
-              "moq": "~5",
+              "color": "",
+              "price": "¥1,600",
+              "margin": "15%",
+              "moq": 5,
               "role": "降噪竞技",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 6800
             },
             {
               "brand": "Logitech",
               "name": "G Pro X 2 LIGHTSPEED",
               "sub": "石墨烯单元",
+              "color": "",
               "price": "¥1,699",
-              "margin": "~15%",
-              "moq": "~5",
-              "role": "电竞稳妥"
+              "margin": "15%",
+              "moq": 5,
+              "role": "电竞稳妥",
+              "note": "",
+              "stock_cost": 7220.75
             },
             {
               "brand": "HyperX 极度未知",
               "name": "飓风 3s",
               "sub": "",
+              "color": "",
               "price": "¥947",
-              "margin": "~20%",
-              "moq": "~5",
+              "margin": "20%",
+              "moq": 5,
               "role": "性价比水桶",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 3788
+            },
+            {
+              "brand": "HyperX 极度未知",
+              "name": "Cloud III / Alpha 2 Wireless",
+              "sub": "300h+ 续航 · 双腔单元",
+              "color": "",
+              "price": "¥699",
+              "margin": "20%",
+              "moq": 5,
+              "role": "价值之选",
+              "note": "",
+              "stock_cost": 2796
             },
             {
               "brand": "ROG",
               "name": "棱镜 2",
               "sub": "",
-              "price": "¥1299",
-              "margin": "",
-              "moq": "5",
+              "color": "",
+              "price": "¥1,299",
+              "margin": "15%",
+              "moq": 5,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 5520.75
+            },
+            {
+              "brand": "ROG",
+              "name": "臻世",
+              "sub": "100mm 平板振膜 · HIFIMAN 联合调校",
+              "color": "",
+              "price": "¥2,999",
+              "margin": "15%",
+              "moq": 5,
+              "role": "平板天花板",
+              "note": "",
+              "stock_cost": 12745.75
             },
             {
               "brand": "西伯利亚",
               "name": "S21 无线充",
               "sub": "",
-              "price": "459",
+              "color": "",
+              "price": "¥459",
               "margin": "15%",
-              "moq": "5",
+              "moq": 5,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 1950.75
             },
             {
               "brand": "西伯利亚",
               "name": "S21 USB版糖果粉",
               "sub": "",
-              "price": "259",
+              "color": "",
+              "price": "¥259",
               "margin": "15%",
-              "moq": "5",
+              "moq": 5,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 1100.75
+            },
+            {
+              "brand": "索尼 Sony",
+              "name": "INZONE H9 II",
+              "sub": "ANC · 30mm 碳纤维单元 · 约 260g",
+              "color": "",
+              "price": "¥2,299",
+              "margin": "18%",
+              "moq": 5,
+              "role": "降噪旗舰",
+              "note": "",
+              "stock_cost": 9425.9
+            },
+            {
+              "brand": "索尼 Sony",
+              "name": "INZONE H7 / H3",
+              "sub": "360 游戏空间音效 · PS5/PC 双修",
+              "color": "",
+              "price": "¥899",
+              "margin": "20%",
+              "moq": 5,
+              "role": "主机双修",
+              "note": "",
+              "stock_cost": 3596
+            },
+            {
+              "brand": "Astro",
+              "name": "A50 Gen 5",
+              "sub": "HDMI 2.1 底座 · 主机客厅方案",
+              "color": "",
+              "price": "¥2,499",
+              "margin": "18%",
+              "moq": 5,
+              "role": "主机旗舰",
+              "note": "",
+              "stock_cost": 10245.9
             }
           ]
         }
@@ -315,32 +465,38 @@
             {
               "brand": "WINS",
               "name": "Hub 航插线",
+              "sub": "",
+              "color": "",
               "price": "¥358",
               "margin": "27%",
-              "moq": "100",
+              "moq": 20,
               "role": "200 条售罄",
-              "sub": "",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 5226.8
             },
             {
               "brand": "WINS",
               "name": "一拖二双头8K",
+              "sub": "",
+              "color": "",
               "price": "¥318",
               "margin": "30%",
-              "moq": "100",
+              "moq": 20,
               "role": "主力款",
-              "sub": "",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 4452
             },
             {
               "brand": "AngryMiao",
               "name": "怒喵歪歪线 1.6m",
               "sub": "首创歪头 · 磁吸收纳",
+              "color": "",
               "price": "¥89",
-              "margin": "自有渠道",
-              "moq": "50",
+              "margin": "25%",
+              "moq": 20,
               "role": "AM 零售",
-              "priceSub": ""
+              "note": "走量",
+              "stock_cost": 1335
             }
           ]
         },
@@ -349,43 +505,76 @@
           "tag": "拉新引擎 · 毛利 12–43%",
           "rows": [
             {
-              "brand": "泰坦天尊",
-              "name": "ESC / 一回 钛合金个性键帽",
-              "price": "¥398 / 648",
-              "margin": "25.0%",
-              "moq": "10",
-              "role": "AM 零售",
-              "sub": ""
-            },
-            {
               "brand": "THOK",
               "name": "Thok 黄铜个性键帽",
               "sub": "",
+              "color": "",
               "price": "¥298",
-              "margin": "25.0%",
-              "moq": "10",
+              "margin": "25%",
+              "moq": 10,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 2235
             },
             {
               "brand": "Atelier Lin",
               "name": "旋转第二季（烤漆/阳极）",
               "sub": "",
+              "color": "",
               "price": "¥156",
-              "margin": "22.0%",
-              "moq": "50",
+              "margin": "22%",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 2433.6
             },
             {
               "brand": "AngryMiao",
               "name": "HotKeyProject个性键帽",
               "sub": "",
+              "color": "",
               "price": "¥290",
-              "margin": "25.0%",
-              "moq": "50",
+              "margin": "25%",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "自有渠道",
+              "stock_cost": 4350
+            },
+            {
+              "brand": "泰坦天尊",
+              "name": "ESC / 一回 钛合金个性键帽",
+              "sub": "",
+              "color": "",
+              "price": "¥648",
+              "margin": "25%",
+              "moq": 10,
+              "role": "AM 零售",
+              "note": "",
+              "stock_cost": 4860
+            },
+            {
+              "brand": "ZOMO",
+              "name": "柯基屁屁个性键帽",
+              "sub": "",
+              "color": "",
+              "price": "¥198",
+              "margin": "25%",
+              "moq": 10,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1485
+            },
+            {
+              "brand": "ZOMO",
+              "name": "猫爪硅胶金属",
+              "sub": "",
+              "color": "",
+              "price": "¥155",
+              "margin": "25%",
+              "moq": 10,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1162.5
             }
           ]
         },
@@ -396,99 +585,152 @@
             {
               "brand": "键设局",
               "name": "KAP Generation 初代 Basekit + Novelties",
-              "price": "¥499 / 99",
-              "margin": "36–47%",
-              "moq": "40 / 7",
-              "role": "利润主力"
+              "sub": "",
+              "color": "",
+              "price": "¥499",
+              "margin": "36%",
+              "moq": 20,
+              "role": "利润主力",
+              "note": "",
+              "stock_cost": 6387.2
             },
             {
               "brand": "键设局",
               "name": "Rainbow G3 R2 旧日海滨主题键帽",
+              "sub": "",
+              "color": "",
               "price": "¥249",
               "margin": "28%",
-              "moq": "30",
+              "moq": 20,
               "role": "利润主力",
+              "note": "",
+              "stock_cost": 3585.6
+            },
+            {
+              "brand": "键设局",
+              "name": "Asimov 阿西莫夫 透明 ABS 键帽",
               "sub": "",
-              "priceSub": ""
+              "color": "",
+              "price": "¥299",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 4485
             },
             {
               "brand": "HAOWORKS",
               "name": "调酒 base",
-              "price": "¥349",
-              "margin": "47.0%",
-              "moq": "~30",
-              "role": "高毛利",
               "sub": "",
-              "priceSub": ""
+              "color": "",
+              "price": "¥349",
+              "margin": "47%",
+              "moq": 20,
+              "role": "高毛利",
+              "note": "",
+              "stock_cost": 3699.4
             },
             {
               "brand": "米可维",
               "name": "罕见 Basekit + Novelties",
-              "price": "¥569 / 199",
-              "margin": "25.0%",
-              "moq": "40 / 20",
+              "sub": "",
+              "color": "",
+              "price": "¥569",
+              "margin": "25%",
+              "moq": 20,
               "role": "稳定款",
-              "sub": ""
+              "note": "",
+              "stock_cost": 8535
             },
             {
               "brand": "AngryMiao",
               "name": "回到未来 主题键帽 / 021c",
-              "price": "¥420/¥600",
-              "margin": "50%",
-              "moq": "",
-              "role": "AM 零售",
               "sub": "",
-              "priceSub": ""
+              "color": "",
+              "price": "¥600",
+              "margin": "25%",
+              "moq": 30,
+              "role": "AM 零售",
+              "note": "自有渠道",
+              "stock_cost": 13500
             },
             {
               "brand": "GoMaster",
               "name": "Winter Breath",
               "sub": "",
+              "color": "",
               "price": "¥255",
-              "margin": "25.0%",
-              "moq": "—",
+              "margin": "25%",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 3825
             },
             {
               "brand": "TUTKEYS 土酱",
-              "name": "",
+              "name": "樱花可可",
               "sub": "",
+              "color": "",
               "price": "¥500",
-              "margin": "20%",
-              "moq": "—",
+              "margin": "25%",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 7500
             },
             {
               "brand": "KKB",
               "name": "KKB IBM",
               "sub": "",
+              "color": "",
               "price": "¥629",
               "margin": "25%",
-              "moq": "—",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 9435
             },
             {
               "brand": "KCH",
               "name": "Hipparcos Base 测天",
               "sub": "",
+              "color": "",
               "price": "¥469",
               "margin": "25%",
-              "moq": "—",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 7035
             },
             {
-              "brand": "泰坦天尊",
-              "name": "钛合金主题键帽",
+              "brand": "TTC 正牌科电",
+              "name": "金粉轴 V3  100颗装",
               "sub": "",
-              "price": "¥25000",
+              "color": "",
+              "price": "¥272",
               "margin": "25%",
-              "moq": "—",
-              "role": "定位",
-              "priceSub": ""
+              "moq": 20,
+              "role": "口碑轴体",
+              "note": "",
+              "stock_cost": 4080
+            }
+          ]
+        },
+        {
+          "h3": "拔轴器组合",
+          "tag": "",
+          "rows": [
+            {
+              "brand": "ZOMO",
+              "name": "猫爪拔键器",
+              "sub": "",
+              "color": "",
+              "price": "¥29.9",
+              "margin": "25%",
+              "moq": 20,
+              "role": "低客单连带",
+              "note": "",
+              "stock_cost": 448.5
             }
           ]
         },
@@ -497,34 +739,112 @@
           "tag": "稳定走量 · 毛利 15–47%",
           "rows": [
             {
+              "brand": "TTC 正牌科电",
+              "name": "雪虎轴   36颗装",
+              "sub": "",
+              "color": "",
+              "price": "¥432",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 6480
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "爱心轴V2  50颗装",
+              "sub": "",
+              "color": "",
+              "price": "¥221",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 3315
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "快银轴（100 颗盒装）",
+              "sub": "国产线性轴口碑之王 · 厂润到手即用",
+              "color": "",
+              "price": "¥331",
+              "margin": "25%",
+              "moq": 20,
+              "role": "",
+              "note": "",
+              "stock_cost": 4965
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "BOX 白 / 知夏轴（90 颗盒装）",
+              "sub": "Click 清脆 · 段落手感扎实",
+              "color": "",
+              "price": "¥245",
+              "margin": "30%",
+              "moq": 20,
+              "role": "Click 之选",
+              "note": "",
+              "stock_cost": 3430
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "G 黄 Pro / G 白 Pro（90 颗盒装）",
+              "sub": "线性主力 · 出厂预润",
+              "color": "",
+              "price": "¥180",
+              "margin": "30%",
+              "moq": 20,
+              "role": "走量款",
+              "note": "",
+              "stock_cost": 2520
+            },
+            {
               "brand": "Wuque 无缺",
               "name": "八宝磁轴（鼓动版 / 闷声版 / 钻石系列）",
               "sub": "磁轴满改生态热门 · 适配 EV63 / MADE68 / Wooting 60HE v2",
-              "price": "¥5.9–23/颗",
-              "priceSub": "盒装 ¥219 / 68 颗",
-              "margin": "~30%",
-              "moq": "~10 盒",
-              "role": "磁轴改装热门"
+              "color": "",
+              "price": "¥219",
+              "margin": "30%",
+              "moq": 10,
+              "role": "磁轴改装热门",
+              "note": "",
+              "stock_cost": 1533
             },
             {
               "brand": "AngryMiao",
               "name": "冰银轴 Pro V3 (厂润/90颗)",
-              "price": "¥5.2/颗",
-              "margin": "41.7–46.7%",
-              "moq": "",
-              "role": "AM 零售",
               "sub": "",
-              "priceSub": ""
+              "color": "",
+              "price": "¥468",
+              "margin": "25%",
+              "moq": 10,
+              "role": "AM 零售",
+              "note": "自有渠道",
+              "stock_cost": 3510
+            },
+            {
+              "brand": "DRY STUDIO",
+              "name": "速冰粥（35颗）",
+              "sub": "",
+              "color": "",
+              "price": "¥85",
+              "margin": "25%",
+              "moq": 10,
+              "role": "走量",
+              "note": "走量",
+              "stock_cost": 637.5
             },
             {
               "brand": "环诺",
               "name": "碳影轴",
               "sub": "",
-              "price": "¥2/颗",
+              "color": "",
+              "price": "¥180",
               "margin": "67%",
-              "moq": "—",
+              "moq": 10,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 594
             }
           ]
         },
@@ -535,66 +855,98 @@
             {
               "brand": "Deltahub × AM",
               "name": "Carpio G2.0 游戏腕托",
-              "price": "¥252–280",
-              "margin": "~10%",
-              "moq": "50",
-              "role": "50 件售罄"
-            },
-            {
-              "brand": "AngryMiao",
-              "name": "玻璃鼠标垫 超薄款",
-              "price": "¥590",
-              "margin": "",
-              "moq": "",
-              "role": "AM 旗舰垫",
-              "priceSub": "",
-              "sub": ""
+              "sub": "",
+              "color": "",
+              "price": "¥280",
+              "margin": "10%",
+              "moq": 20,
+              "role": "50 件售罄",
+              "note": "走量",
+              "stock_cost": 5040
             },
             {
               "brand": "aboStudio",
               "name": "金属置物托盘",
               "sub": "",
+              "color": "",
               "price": "¥598",
-              "margin": "25.0%",
-              "moq": "—",
+              "margin": "25%",
+              "moq": 5,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 2242.5
             },
             {
               "brand": "DRY STUDIO",
               "name": "鼠标垫/布垫 FIELD 001",
               "sub": "",
+              "color": "",
               "price": "¥198",
-              "margin": "—",
-              "moq": "—",
+              "margin": "25%",
+              "moq": 20,
               "role": "定位",
-              "priceSub": ""
-            }
-          ]
-        },
-        {
-          "h3": "桌搭套装",
-          "tag": "",
-          "rows": [
-            {
-              "brand": "LIVTAB",
-              "name": "升降桌",
-              "sub": "",
-              "price": "¥6388",
-              "margin": "22%",
-              "moq": "—",
-              "role": "高端",
-              "priceSub": ""
+              "note": "走量",
+              "stock_cost": 2970
             },
             {
-              "brand": "清闲",
-              "name": "清闲 OC1 PRO",
+              "brand": "AngryMiao",
+              "name": "玻璃鼠标垫 超薄款",
               "sub": "",
-              "price": "¥3661",
-              "margin": "—",
-              "moq": "—",
+              "color": "",
+              "price": "¥590",
+              "margin": "25%",
+              "moq": 10,
+              "role": "AM 旗舰垫",
+              "note": "自有渠道",
+              "stock_cost": 4425
+            },
+            {
+              "brand": "卓威",
+              "name": "炽、澜、曦",
+              "sub": "",
+              "color": "",
+              "price": "¥300",
+              "margin": "15%",
+              "moq": 5,
               "role": "定位",
-              "priceSub": ""
+              "note": "",
+              "stock_cost": 1275
+            },
+            {
+              "brand": "剑匠",
+              "name": "ZERO、雷电、飞燕",
+              "sub": "",
+              "color": "",
+              "price": "¥370",
+              "margin": "0%",
+              "moq": 5,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1850
+            },
+            {
+              "brand": "pulsar",
+              "name": "土星pro",
+              "sub": "",
+              "color": "",
+              "price": "¥350",
+              "margin": "0%",
+              "moq": 5,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1750
+            },
+            {
+              "brand": "QUAOAR",
+              "name": "帕尔修斯",
+              "sub": "",
+              "color": "",
+              "price": "¥240",
+              "margin": "0%",
+              "moq": 5,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1200
             }
           ]
         },
@@ -605,31 +957,43 @@
             {
               "brand": "店内自产",
               "name": "鼠标 3D 打印握把 / 侧裙改装件",
-              "price": "~¥99–199",
-              "margin": "~60%+",
-              "moq": "无（现场打印）",
-              "role": "定制钩子"
+              "sub": "",
+              "color": "",
+              "price": "¥199",
+              "margin": "50%",
+              "moq": 5,
+              "role": "定制钩子",
+              "note": "",
+              "stock_cost": 497.5
             },
             {
               "brand": "店内自产",
               "name": "3D 打印脚贴 / 配重 / 底座",
-              "price": "~¥49–99",
-              "margin": "~60%+",
-              "moq": "无（现场打印）",
-              "role": "低客单连带"
+              "sub": "",
+              "color": "",
+              "price": "¥99",
+              "margin": "50%",
+              "moq": 5,
+              "role": "低客单连带",
+              "note": "",
+              "stock_cost": 247.5
             },
             {
               "brand": "店内自产",
               "name": "键盘铭牌 / 桌搭小件定制",
-              "price": "~¥49–299",
-              "margin": "~60%+",
-              "moq": "无（现场打印）",
-              "role": "社交传播款"
+              "sub": "",
+              "color": "",
+              "price": "¥299",
+              "margin": "50%",
+              "moq": 5,
+              "role": "社交传播款",
+              "note": "",
+              "stock_cost": 747.5
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": 1795064675753
+  "updatedAt": 1795067348346
 }
