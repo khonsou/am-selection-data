@@ -1,1 +1,55 @@
-{"updatedAt":1795681916253,"themes":[{"id":"valorant-ops","name":"瓦罗兰特 · 特工行动","type":"game","story":"特工涂装键帽 + 定制铭牌 + 磁轴 RT 0.01mm 精调。从素机到上场，全程 3 分 12 秒。","parts":"键帽、铭牌","fit":"键盘","video":"","status":"active","img":""},{"id":"cs2-major","name":"CS2 · Major 之路","type":"game","story":"黄黑冠军配色 + 奖牌铭牌，Rapid Trigger 实测一镜到底。","parts":"键帽、铭牌","fit":"键盘","video":"","status":"active","img":""},{"id":"am-lab-tuning","name":"AM 实验室 · 出厂调校档案","type":"craft","story":"是 63 也是 75：可变配列拆装实录 + 磁轴逐键调校全记录。","parts":"配列拆装、逐键磁轴调校","fit":"键盘","video":"","status":"active","img":""},{"id":"night-city-cyber","name":"夜之城 · 赛博涂装","type":"game","story":"霓虹耳罩涂装 + 声卡 EQ 预设调校，附试听对比片段。","parts":"耳罩涂装、EQ 预设","fit":"耳机","video":"","status":"active","img":""}],"assign":{"IQUNIX EV63":"valorant-ops","Wooting 60HE v2":"cs2-major","AngryMiao BE745 屏幕版/铭牌版":"am-lab-tuning","SteelSeries Arctis Nova Pro Wireless":"night-city-cyber"}}
+{
+  "updatedAt": 1795682011781,
+  "themes": [
+    {
+      "id": "valorant-ops",
+      "name": "云端同步测试主题",
+      "type": "game",
+      "story": "特工涂装键帽 + 定制铭牌 + 磁轴 RT 0.01mm 精调。从素机到上场，全程 3 分 12 秒。",
+      "parts": "键帽、铭牌",
+      "fit": "键盘",
+      "video": "",
+      "status": "active",
+      "img": ""
+    },
+    {
+      "id": "cs2-major",
+      "name": "CS2 · Major 之路",
+      "type": "game",
+      "story": "黄黑冠军配色 + 奖牌铭牌，Rapid Trigger 实测一镜到底。",
+      "parts": "键帽、铭牌",
+      "fit": "键盘",
+      "video": "",
+      "status": "active",
+      "img": ""
+    },
+    {
+      "id": "am-lab-tuning",
+      "name": "AM 实验室 · 出厂调校档案",
+      "type": "craft",
+      "story": "是 63 也是 75：可变配列拆装实录 + 磁轴逐键调校全记录。",
+      "parts": "配列拆装、逐键磁轴调校",
+      "fit": "键盘",
+      "video": "",
+      "status": "active",
+      "img": ""
+    },
+    {
+      "id": "night-city-cyber",
+      "name": "夜之城 · 赛博涂装",
+      "type": "game",
+      "story": "霓虹耳罩涂装 + 声卡 EQ 预设调校，附试听对比片段。",
+      "parts": "耳罩涂装、EQ 预设",
+      "fit": "耳机",
+      "video": "",
+      "status": "active",
+      "img": ""
+    }
+  ],
+  "assign": {
+    "IQUNIX EV63": "valorant-ops",
+    "Wooting 60HE v2": "cs2-major",
+    "AngryMiao BE745 屏幕版/铭牌版": "am-lab-tuning",
+    "SteelSeries Arctis Nova Pro Wireless": "night-city-cyber"
+  }
+}
