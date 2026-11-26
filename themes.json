@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795684332300,
+  "updatedAt": 1795684336327,
   "themes": [
     {
       "id": "am-lab-tuning",
@@ -17,7 +17,7 @@
       "name": "AM 实验室 · Ver.SDARK",
       "type": "craft",
       "story": "人体工学分体键盘",
-      "parts": "",
+      "parts": "外观涂装",
       "fit": "键盘",
       "video": "",
       "status": "display",
