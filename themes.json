@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1795684312731,
+  "updatedAt": 1795684332300,
   "themes": [
     {
       "id": "am-lab-tuning",
       "name": "AM 实验室 · 迈阿密",
       "type": "game",
       "story": "欢迎来到罪恶之都",
-      "parts": "外观",
+      "parts": "外观涂装",
       "fit": "鼠标",
       "video": "",
       "status": "active",
