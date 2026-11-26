@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-26",
   "sections": [
     {
       "id": "step1",
@@ -497,6 +497,18 @@
               "role": "AM 零售",
               "note": "走量",
               "stock_cost": 1335
+            },
+            {
+              "brand": "AngryMiao",
+              "name": "一拖二 8k 电竞线",
+              "sub": "",
+              "color": "",
+              "price": "¥129",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 1935
             }
           ]
         },
@@ -678,6 +690,126 @@
               "stock_cost": 7500
             },
             {
+              "brand": "TUTKEYS 土酱",
+              "name": "天际线 Dream skyliner",
+              "sub": "",
+              "color": "",
+              "price": "¥338",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5070
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "合成器 SYNTHESIZER",
+              "sub": "",
+              "color": "",
+              "price": "¥350",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5250
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "童趣兔 COLOR FUN",
+              "sub": "",
+              "color": "",
+              "price": "¥398",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5970
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "糖果可可 COCOA",
+              "sub": "",
+              "color": "",
+              "price": "¥388",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5820
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "Flying Bird 飞鸟",
+              "sub": "",
+              "color": "",
+              "price": "¥388",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5820
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "Hard Court 硬地球场",
+              "sub": "",
+              "color": "",
+              "price": "¥308",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 4620
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "ADMIN AC 管理员",
+              "sub": "",
+              "color": "",
+              "price": "¥299",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 4485
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "Root 程序员",
+              "sub": "",
+              "color": "",
+              "price": "¥338",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5070
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "MONTAGE 蒙太奇",
+              "sub": "",
+              "color": "",
+              "price": "¥388",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5820
+            },
+            {
+              "brand": "TUTKEYS 土酱",
+              "name": "SakuraCocoa 樱茶可可",
+              "sub": "",
+              "color": "",
+              "price": "¥388",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "",
+              "stock_cost": 5820
+            },
+            {
               "brand": "KKB",
               "name": "KKB IBM",
               "sub": "",
@@ -700,18 +832,6 @@
               "role": "定位",
               "note": "",
               "stock_cost": 7035
-            },
-            {
-              "brand": "TTC 正牌科电",
-              "name": "金粉轴 V3  100颗装",
-              "sub": "",
-              "color": "",
-              "price": "¥272",
-              "margin": "25%",
-              "moq": 20,
-              "role": "口碑轴体",
-              "note": "",
-              "stock_cost": 4080
             }
           ]
         },
@@ -737,6 +857,30 @@
           "h3": "轴体 / 卫星轴",
           "tag": "稳定走量 · 毛利 15–47%",
           "rows": [
+            {
+              "brand": "AngryMiao",
+              "name": "冰银轴 Pro V3 (厂润/90颗)",
+              "sub": "",
+              "color": "",
+              "price": "¥468",
+              "margin": "25%",
+              "moq": 10,
+              "role": "AM 零售",
+              "note": "自有渠道",
+              "stock_cost": 3510
+            },
+            {
+              "brand": "DRY STUDIO",
+              "name": "速冰粥（35颗）",
+              "sub": "",
+              "color": "",
+              "price": "¥85",
+              "margin": "25%",
+              "moq": 10,
+              "role": "走量",
+              "note": "走量",
+              "stock_cost": 637.5
+            },
             {
               "brand": "TTC 正牌科电",
               "name": "雪虎轴   36颗装",
@@ -774,28 +918,76 @@
               "stock_cost": 4965
             },
             {
-              "brand": "凯华 Kailh",
-              "name": "BOX 白 / 知夏轴（90 颗盒装）",
-              "sub": "Click 清脆 · 段落手感扎实",
+              "brand": "TTC 正牌科电",
+              "name": "金粉轴 V3  100颗装",
+              "sub": "",
               "color": "",
-              "price": "¥245",
-              "margin": "30%",
+              "price": "¥272",
+              "margin": "25%",
               "moq": 20,
-              "role": "Click 之选",
+              "role": "口碑轴体",
               "note": "",
-              "stock_cost": 3430
+              "stock_cost": 4080
             },
             {
-              "brand": "佳达隆 Gateron",
-              "name": "G 黄 Pro / G 白 Pro（90 颗盒装）",
-              "sub": "线性主力 · 出厂预润",
+              "brand": "TTC 正牌科电",
+              "name": "烈焰黄万磁王轴",
+              "sub": "",
               "color": "",
-              "price": "¥180",
-              "margin": "30%",
+              "price": "¥531",
+              "margin": "25%",
               "moq": 20,
-              "role": "走量款",
-              "note": "",
-              "stock_cost": 2520
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 7965
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "静音红轴 V3",
+              "sub": "",
+              "color": "",
+              "price": "¥270",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 4050
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "射手座磁轴",
+              "sub": "",
+              "color": "",
+              "price": "¥495",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 7425
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "TTC 月白轴",
+              "sub": "",
+              "color": "",
+              "price": "¥252",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 3780
+            },
+            {
+              "brand": "TTC 正牌科电",
+              "name": "TTC 茶静轴",
+              "sub": "",
+              "color": "",
+              "price": "¥198",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 2970
             },
             {
               "brand": "Wuque 无缺",
@@ -810,31 +1002,43 @@
               "stock_cost": 1533
             },
             {
-              "brand": "AngryMiao",
-              "name": "冰银轴 Pro V3 (厂润/90颗)",
+              "brand": "Wuque 无缺",
+              "name": "八宝磁轴 · 库里南",
               "sub": "",
               "color": "",
-              "price": "¥468",
+              "price": "¥855",
               "margin": "25%",
-              "moq": 10,
-              "role": "AM 零售",
-              "note": "自有渠道",
-              "stock_cost": 3510
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 12825
             },
             {
-              "brand": "DRY STUDIO",
-              "name": "速冰粥（35颗）",
+              "brand": "Wuque 无缺",
+              "name": "八宝磁轴 · 海洋之心",
               "sub": "",
               "color": "",
-              "price": "¥85",
+              "price": "¥855",
               "margin": "25%",
-              "moq": 10,
-              "role": "走量",
-              "note": "走量",
-              "stock_cost": 637.5
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 12825
             },
             {
-              "brand": "环诺",
+              "brand": "Wuque 无缺",
+              "name": "八宝磁轴 · 太阳之泪",
+              "sub": "",
+              "color": "",
+              "price": "¥900",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 13500
+            },
+            {
+              "brand": "环诺 HUANO",
               "name": "碳影轴",
               "sub": "",
               "color": "",
@@ -844,6 +1048,210 @@
               "role": "定位",
               "note": "",
               "stock_cost": 594
+            },
+            {
+              "brand": "环诺 HUANO",
+              "name": "星瞳磁轴",
+              "sub": "",
+              "color": "",
+              "price": "¥360",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 5400
+            },
+            {
+              "brand": "环诺 HUANO",
+              "name": "樱诺轴 V2",
+              "sub": "",
+              "color": "",
+              "price": "¥252",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 3780
+            },
+            {
+              "brand": "环诺 HUANO",
+              "name": "黑曜轴",
+              "sub": "",
+              "color": "",
+              "price": "¥225",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 3375
+            },
+            {
+              "brand": "环诺 HUANO",
+              "name": "白桃茶轴",
+              "sub": "",
+              "color": "",
+              "price": "¥180",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 2700
+            },
+            {
+              "brand": "环诺 HUANO",
+              "name": "樱花段落轴 Sakura Tactile",
+              "sub": "",
+              "color": "",
+              "price": "¥270",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 4050
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "G 黄 Pro / G 白 Pro（90 颗盒装）",
+              "sub": "线性主力 · 出厂预润",
+              "color": "",
+              "price": "¥180",
+              "margin": "30%",
+              "moq": 20,
+              "role": "走量款",
+              "note": "",
+              "stock_cost": 2520
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "龙吟轴",
+              "sub": "",
+              "color": "",
+              "price": "¥630",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 9450
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "三角轴",
+              "sub": "",
+              "color": "",
+              "price": "¥495",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 7425
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "磁玉Ultra",
+              "sub": "",
+              "color": "",
+              "price": "¥720",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 10800
+            },
+            {
+              "brand": "佳达隆 Gateron",
+              "name": "佳达隆 G Pro 2.0 茶轴",
+              "sub": "",
+              "color": "",
+              "price": "¥135",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 2025
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "BOX 白 / 知夏轴（90 颗盒装）",
+              "sub": "Click 清脆 · 段落手感扎实",
+              "color": "",
+              "price": "¥245",
+              "margin": "30%",
+              "moq": 20,
+              "role": "Click 之选",
+              "note": "",
+              "stock_cost": 3430
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "紫焰磁轴",
+              "sub": "",
+              "color": "",
+              "price": "¥450",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 6750
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "水母磁轴",
+              "sub": "",
+              "color": "",
+              "price": "¥450",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 6750
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "极光绿磁轴",
+              "sub": "",
+              "color": "",
+              "price": "¥450",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装（预估）",
+              "stock_cost": 6750
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "凯华 BOX 茶轴 V2",
+              "sub": "",
+              "color": "",
+              "price": "¥135",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 2025
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "凯华 夏荷轴",
+              "sub": "",
+              "color": "",
+              "price": "¥251.1",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 3766.5
+            },
+            {
+              "brand": "凯华 Kailh",
+              "name": "凯华 知冬轴",
+              "sub": "",
+              "color": "",
+              "price": "¥225",
+              "margin": "25%",
+              "moq": 20,
+              "role": "定位",
+              "note": "90颗装",
+              "stock_cost": 3375
             }
           ]
         },
@@ -994,6 +1402,6 @@
       ]
     }
   ],
-  "updatedAt": 1795080184088,
+  "updatedAt": 1795672534786,
   "shelfLogic": "体验区（折旧思维）：摆显卡、主机、升降桌、电竞椅等场景设备撑场子留人，按回收价/使用成本折旧，不计入零售利润，作用是拉停留、造场景。\n展示零售区（一体化）：\n满改键盘：键盘＋轴体＋键帽＋个性键帽成套陈列，即看即试即买，溢价约 30%，赚主利润；\n配件：低客单、高毛利，单独零售做连带，把平效做厚。"
 }
